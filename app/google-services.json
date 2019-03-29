@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "621452557573",
+    "firebase_url": "https://hellodoctor-eca01.firebaseio.com",
+    "project_id": "hellodoctor-eca01",
+    "storage_bucket": "hellodoctor-eca01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621452557573:android:7d9b2650311af2ef",
+        "android_client_info": {
+          "package_name": "com.abhishek360.dev.hellodoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621452557573-870mrpgerv2udtooirptf9bd25m5uu1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek360.dev.hellodoctor",
+            "certificate_hash": "c35fc4eb91f369d2daefad9e9378c5c163e1aa9b"
+          }
+        },
+        {
+          "client_id": "621452557573-dkgs781ig5dsp29rp5mcphsjj94du4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAma79x4jO8RzQX7LTnEdJ5uacWZlX2Gpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621452557573-dkgs781ig5dsp29rp5mcphsjj94du4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
